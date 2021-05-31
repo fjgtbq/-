@@ -1,0 +1,32 @@
+<RCC>
+    <qresource prefix="/">
+        <file>1.wav</file>
+        <file>ARS_L.obj</file>
+        <file>ARS_R.obj</file>
+        <file>body.obj</file>
+        <file>CCR_L.obj</file>
+        <file>CCR_R.obj</file>
+        <file>chuizhi.obj</file>
+        <file>engine.obj</file>
+        <file>jiyi.obj</file>
+        <file>jiyi2.obj</file>
+        <file>Lights.qml</file>
+        <file>main.qml</file>
+        <file>neibu.obj</file>
+        <file>RDC1.obj</file>
+        <file>RDC2.obj</file>
+        <file>RDC3.obj</file>
+        <file>RDC4.obj</file>
+        <file>shuiping.obj</file>
+        <file>window.obj</file>
+        <file>jiyi.jpg</file>
+        <file>map.jpg</file>
+        <file>sky.jpeg</file>
+        <file>sky.obj</file>
+        <file>power.obj</file>
+        <file>tian.jpeg</file>
+        <file>default_irradiance.dds</file>
+        <file>default_specular.dds</file>
+        <file>head.obj</file>
+    </qresource>
+</RCC>
